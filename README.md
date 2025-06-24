@@ -1,15 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hey There, 👋 I am Tasmia Akter Tory <br> A passionate MERN Stack Developer from Bangladesh</h1>
 <img src ="https://github.com/TasmiaTory37/tasmiatory37/blob/main/github-banner.jpg">
+
+
 ## 💫 About Me:
 I’m a Computer Science and Engineering (CSE) student and an enthusiastic MERN Stack Developer. My journey into web development has led me to work with technologies like MongoDB, Express.js, React.js, and Node.js, along with essential tools like JavaScript, Tailwind CSS, and Git.<br><br>I’m passionate about building dynamic, responsive, and user-focused applications. Every project I take on strengthens my understanding of full-stack architecture and best practices.<br><br>As I continue to learn and grow, I’m always open to new challenges that help sharpen my skills and push my creativity forward.
 
-###
 
-<h1 align="center">Current Activities</h1>
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning next.js<br>🎯 Goals: Learn Next.js for Full-Stack Development<br>📚 I am Working on a project <br>🎲 Fun fact: I love doing math</p>
+<h1 align="left">Current Activities</h1>
+
+###
+
+<p align="left">📚 I'm currently learning express.js and MongoDB<br>🎯 Goals: Learn Full-Stack Development<br>📚 I am Working on a project <br>🎲 Fun fact: I love doing math</p>
 
 ###
 
