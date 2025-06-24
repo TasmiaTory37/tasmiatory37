@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img src ="https://github.com/TasmiaTory37/tasmiatory37/blob/main/github-banner.jpg">
 
 <!--
 **TasmiaTory37/tasmiatory37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
