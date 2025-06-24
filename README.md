@@ -9,11 +9,11 @@ I’m a Computer Science and Engineering (CSE) student and an enthusiastic MERN 
 
 ###
 
-<h1 align="left">Current Activities</h1>
+## 🔥Current Activities:
 
 ###
 
-<p align="left">📚 I'm currently learning express.js and MongoDB<br>🎯 Goals: Learn Full-Stack Development<br>📚 I am Working on a project <br>🎲 Fun fact: I love doing math</p>
+<p align="left">📚 I'm currently learning express.js and MongoDB<br>🎯 Goals: Learn MERN Stack Development<br>📚 I am Working on a project <br>🎲 Fun fact: I love doing math</p>
 
 ###
 
